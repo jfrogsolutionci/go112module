@@ -1,0 +1,2 @@
+# go112module
+testing
